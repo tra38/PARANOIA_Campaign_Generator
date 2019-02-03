@@ -53,7 +53,7 @@ public static class FactionGenerator
     Description = "ULTRAVIOLETs who take their job of programming The Computer and fixing its many bugs a bit *too* seriously, following in the footsteps of JCN (a mega-corporation that was rumored to have built Alpha Complex and The Computer) and the original High Programmer, Gelber-Prime. Currently hunting down the ‘Gelber Open Issue List’, a list that declares all the open bugs in The Computer. They tend to provide 'support' for the other Cliques in Alpha Complex, helping them with their various bug fixes.",
     Leader = "Adam-U-NCH"
   };
-  
+
   static Faction factionG = new Faction
   {
     Name = "Complex Laser Association",
@@ -77,8 +77,8 @@ public static class FactionGenerator
 
   static Faction factionJ = new Faction
   {
-    Name = "VHMET",
-    Description = "The Voluntary Human Extiniction Movement believes in a world without any sapients (humans, machines, or computers), believing that it is better to choose oblivion than to let sapients live in a shallow grave like Alpha Complex. Most members aim for causing a gradual death through sabotage of the cloning vats, though a few extremists have also considered using anti-matter WMDs and bioweapons. Despite how sympatethic their propaganda may be, most ULTRAVIOLETs tend to prefer breathing more.",
+    Name = "VEM",
+    Description = "The Voluntary Extiniction Movement believes in a world without any sapients (humans, machines, or computers), believing that it is better to choose oblivion than to let sapients live in a shallow grave like Alpha Complex. Most members aim for causing a gradual death through sabotage of the cloning vats, though a few extremists have also considered using anti-matter WMDs and bioweapons. Despite how sympatethic their propaganda may be, most ULTRAVIOLETs tend to prefer breathing more.",
     Leader = "Sarah-U-KNG"
   };
 
